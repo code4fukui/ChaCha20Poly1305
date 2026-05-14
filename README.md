@@ -1,4 +1,6 @@
-# ChaCha20Ploy1305
+# ChaCha20Poly1305
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
 AEAD encrypt / decrypt lib by ChaCha20 and Poly1305
 
@@ -27,3 +29,7 @@ console.log(new TextDecoder().decode(plaintext2));
     - Written in 2014 by Devi Mandiri. Public domain.
     - Implementation derived from poly1305-donna-16.h
     - See for details: https://github.com/floodyberry/poly1305-donna
+
+## License
+
+MIT License — see [LICENSE](LICENSE).
