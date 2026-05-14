@@ -5,7 +5,7 @@ ChaCha20とPoly1305によるAEAD暗号化/復号ライブラリ
 ## 使い方
 
 ```js
-import { AEAD } from "https://code4fukui.github.io/ChaCha20Ploy1305/AEAD.js";
+import { AEAD } from "~~https://code4fukui.github.io/ChaCha20Ploy1305/AEAD.js~~ *(unavailable)*";
 
 const key = new Uint8Array(32);
 const nonce = new Uint8Array(12);
